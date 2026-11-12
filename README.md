@@ -1,5 +1,7 @@
 # ATYPIKIA
 
+**Création du site** · Juin 2025. Les premiers travaux documentés remontent au 18 juin.
+
 **Un site de pré-dépistage et d’orientation pour mieux comprendre son fonctionnement et préparer la suite.**
 
 **Mon ambition pour le monde du travail** est de proposer une version locale qui aide les salariés à comprendre leurs besoins et les employeurs à mettre en place des aménagements concrets. Chaque salarié garderait la maîtrise de ce qu’il choisit de partager.
