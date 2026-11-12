@@ -1,3 +1,5 @@
+<img src="atypikia-logo.webp" alt="Logo ATYPIKIA" width="104">
+
 # ATYPIKIA
 
 **Création du site** · Juin 2025. Les premiers travaux documentés remontent au 18 juin.
@@ -67,6 +69,6 @@ Pour un usage en entreprise, je veux que cette maîtrise s’étende au stockage
 
 ## Statut du projet
 
-ATYPIKIA est un projet propriétaire à code fermé. Ce dépôt GitHub privé contient la présentation du projet et deux captures du site public. Le code source, les fichiers du site et les données restent privés.
+ATYPIKIA est un projet propriétaire à code fermé. Ce dépôt GitHub privé contient la présentation du projet, son logo et deux captures du site public. Le code source, les fichiers du site et les données restent privés.
 
 © Fabien EphKa. Tous droits réservés.
