@@ -1,6 +1,8 @@
-<img src="atypikia-logo.webp" alt="Logo ATYPIKIA" width="104">
+<p align="center">
+  <img src="atypikia-logo.webp" alt="Logo ATYPIKIA" width="104">
+</p>
 
-# ATYPIKIA
+<h1 align="center">ATYPIKIA</h1>
 
 **Création du site** · Juin 2025. Les premiers travaux documentés remontent au 18 juin.
 
