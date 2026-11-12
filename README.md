@@ -71,6 +71,6 @@ Pour un usage en entreprise, je veux que cette maîtrise s’étende au stockage
 
 ## Statut du projet
 
-ATYPIKIA est un projet propriétaire à code fermé. Ce dépôt GitHub privé contient la présentation du projet, son logo et deux captures du site public. Le code source, les fichiers du site et les données restent privés.
+ATYPIKIA est un projet propriétaire à code fermé. Cette vitrine GitHub présente le projet, son logo et deux captures du site. Le code source, les fichiers du site et les données restent privés.
 
 © Fabien EphKa. Tous droits réservés.
