@@ -4,7 +4,7 @@
 
 <h1 align="center">ATYPIKIA</h1>
 
-**Création du site** · Juin 2025. Les premiers travaux documentés remontent au 18 juin.
+**Création du site** · 18 Juin 2025.
 
 **Un site de pré-dépistage et d’orientation pour mieux comprendre son fonctionnement et préparer la suite.**
 
